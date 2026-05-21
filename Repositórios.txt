@@ -1,0 +1,1 @@
+Os repositórios "AloMundo", "CalculadoraSimples", "Estudo_POO", "IntroducaoPOO" vão dentro do diretório "ProgOB" localmente.
